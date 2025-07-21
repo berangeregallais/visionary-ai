@@ -1,0 +1,6 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="55" stroke="#4F46E5" stroke-width="10" fill="#EEF2FF"/>
+  <path d="M40 60C40 50 50 40 60 40C70 40 80 50 80 60C80 70 70 80 60 80C50 80 40 70 40 60Z" fill="#4F46E5"/>
+  <circle cx="60" cy="60" r="8" fill="white"/>
+  <text x="60" y="110" text-anchor="middle" font-size="12" fill="#4F46E5" font-family="Arial, sans-serif">Visionary.ai</text>
+</svg>

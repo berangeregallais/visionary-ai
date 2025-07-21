@@ -16,6 +16,7 @@ const config = {
 
   url: 'https://berangeregallais.github.io',
   baseUrl: '/visionary-ai/',
+  deploymentBranch: 'gh-pages',
 
   organizationName: 'berangeregallais',
   projectName: 'visionary-ai',
@@ -52,7 +53,8 @@ const config = {
     navbar: {
       title: 'Visionary.ai',
       logo: {
-        alt: 'Visionary.ai Logo'
+        alt: 'Visionary.ai Logo',
+        src: 'img/logo-visionary.svg'
       },
       items: [
         {

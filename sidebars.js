@@ -18,7 +18,7 @@ const sidebars = {
       label: '📡 API Endpoints',
       collapsed: false,
       items: [
-        'api/analyse',
+        'api/analyze',
         'api/emotion',
         'api/metadata',
         'api/nsfw-filter'
