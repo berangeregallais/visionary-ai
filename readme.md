@@ -25,7 +25,7 @@ Welcome to the official documentation for **Visionary.ai**, an intelligent image
 - [Common Use Cases](docs/sdk/common-use-cases.md)
 - [Integration Troubleshooting](docs/sdk/integration-troubleshooting.md)
 - [FAQ](docs/faq.md)
-- [Changelog](docs/CHANGELOG.md)
+- [Changelog](docs/changelog.md)
 
 ---
 

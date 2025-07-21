@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://berangeregallais.github.io',
-  baseUrl: '/visionary-ai/',
+  baseUrl: '/',
   deploymentBranch: 'gh-pages',
 
   organizationName: 'berangeregallais',
