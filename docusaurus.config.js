@@ -14,11 +14,12 @@ const config = {
   tagline: 'Image analysis AI API documentation',
   favicon: 'img/favicon.ico',
 
-  url: 'https://bgallais.github.io',
+  url: 'https://berangeregallais.github.io',
   baseUrl: '/visionary-ai/',
 
-  organizationName: 'Berangere Gallais',
+  organizationName: 'berangeregallais',
   projectName: 'visionary-ai',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
