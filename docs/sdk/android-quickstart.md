@@ -157,4 +157,4 @@ Replace with your real API key when you're ready for production.
 
 Need help?
 → Check our [Integration Troubleshooting](./integration-troubleshooting.md) guide
-→ Or visit the [FAQ](./faq.md)
+→ Or visit the [FAQ](../faq.md)

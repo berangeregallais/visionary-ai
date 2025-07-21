@@ -95,4 +95,4 @@ Threshold can be customized at integration level.
 
 ## 🔗 Next endpoint
 
-➡️ Explore [`/metadata`](./metadata.md) to extract EXIF and technical data from an image.
+➡️ Explore [`/metadata`](metadata.md) to extract EXIF and technical data from an image.

@@ -95,4 +95,4 @@ curl -X POST https://api.visionary.ai/v1/analyze \
 
 ## 🔗 Next endpoint
 
-➡️ Try the [`/emotion`](./emotion.md) endpoint to analyze facial expressions.
+➡️ Try the [`/emotion`](emotion.md) endpoint to analyze facial expressions.

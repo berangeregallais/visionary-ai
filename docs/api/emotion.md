@@ -123,4 +123,4 @@ curl -X POST https://api.visionary.ai/v1/emotion \
 
 ## 🔗 Next endpoint
 
-➡️ Try the [`/nsfw-filter`](./nsfw-filter.md) endpoint to moderate inappropriate content.
+➡️ Try the [`/nsfw-filter`](nsfw-filter.md) endpoint to moderate inappropriate content.

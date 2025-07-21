@@ -121,4 +121,4 @@ Replace it with your real key for production use.
 
 Need help?
 → Check the [Integration Troubleshooting](./integration-troubleshooting.md) guide
-→ Or read the [FAQ](./faq.md)
+→ Or read the [FAQ](../faq.md)

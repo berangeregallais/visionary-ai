@@ -1,8 +1,8 @@
 # 📷 Visionary.ai SDK & API Documentation
 
-[![Status](https://img.shields.io/badge/status-Beta-orange)](./faq.md)  
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](./integration-troubleshooting.md)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](./CHANGELOG.md)
+[![Status](https://img.shields.io/badge/status-Beta-orange)](docs/faq.md)  
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)](docs/adk/integration-troubleshooting.md)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](docs/CHANGELOG.md)
 
 Welcome to the official documentation for **Visionary.ai**, an intelligent image analysis platform built for mobile applications. This SDK + API combination helps developers extract meaningful insights from images in real time.
 
@@ -12,15 +12,20 @@ Welcome to the official documentation for **Visionary.ai**, an intelligent image
 
 ## 🧭 Table of Contents
 
-- [Introduction](./introduction.md)
+- [Introduction](docs/introduction.md)
 - Quickstart Guides
-  - [Android Quickstart](./android-quickstart.md)
-  - [iOS Quickstart](./ios-quickstart.md)
-- [API Reference](./openapi.json)
-- [Common Use Cases](./common-use-cases.md)
-- [Integration Troubleshooting](./integration-troubleshooting.md)
-- [FAQ](./faq.md)
-- [Changelog](./CHANGELOG.md)
+  - [Getting Started](docs/getting-started.md)
+  - [Android Quickstart](docs/sdk/android-quickstart.md)
+  - [iOS Quickstart](docs/sdk/ios-quickstart.md)
+- Endpoints
+  - [Image Classification](docs/api/analyze.md)
+  - [Emotion Recognition](docs/api/emotion.md)
+  - [Image Metadata Extraction](docs/api/metadata.md)
+  - [NSFW Content Detection](docs/api/nsfw-filter.md)
+- [Common Use Cases](docs/sdk/common-use-cases.md)
+- [Integration Troubleshooting](docs/sdk/integration-troubleshooting.md)
+- [FAQ](docs/faq.md)
+- [Changelog](docs/CHANGELOG.md)
 
 ---
 
@@ -28,17 +33,10 @@ Welcome to the official documentation for **Visionary.ai**, an intelligent image
 
 Choose the platform you're integrating with:
 
-- [Android Quickstart](./android-quickstart.md)
-- [iOS Quickstart](./ios-quickstart.md)
+- [Android Quickstart](docs/sdk/android-quickstart.md)
+- [iOS Quickstart](docs/sdk/ios-quickstart.md)
 
 These guides will walk you through setting up the SDK and making your first call to the API.
-
----
-
-## 📖 API Reference
-
-See the full [OpenAPI specification](./openapi.json) to explore all endpoints, request/response formats, and parameters.  
-Supports JSON-based requests and RESTful architecture.
 
 ---
 
@@ -50,21 +48,21 @@ Learn how Visionary.ai is used in real-world scenarios:
 - Metadata analysis (ISO, exposure, GPS)
 - Smart categorization
 
-→ [Explore use cases](./common-use-cases.md)
+→ [Explore use cases](docs/sdk/common-use-cases.md)
 
 ---
 
 ## 🛠️ Integration Troubleshooting
 
 Encountering issues?  
-Check out the [Integration Troubleshooting Guide](./integration-troubleshooting.md) for solutions to common problems.
+Check out the [Integration Troubleshooting Guide](docs/sdk/integration-troubleshooting.md) for solutions to common problems.
 
 ---
 
 ## 🙋 FAQ
 
 Find answers to frequently asked questions about pricing, usage, and SDK compatibility.  
-→ [Read the FAQ](./faq.md)
+→ [Read the FAQ](docs/faq.md)
 
 ---
 

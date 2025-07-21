@@ -95,6 +95,6 @@ Contact our developer support team:
 
 Or check:
 
-- [API Reference](./introduction.md)
+- [API Reference](../introduction.md)
 - [Common Use Cases](./common-use-cases.md)
-- [FAQ](./faq.md)
+- [FAQ](../faq.md)
