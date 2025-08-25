@@ -1,4 +1,4 @@
-# 🧠 Introduction
+# Introduction
 
 **Welcome to the official documentation for Visionary.ai — a fictional AI-powered image analysis API and SDK designed for mobile developers.**
 
